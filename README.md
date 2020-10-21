@@ -11,7 +11,7 @@ This paper is also available in [arXiv](https://arxiv.org/pdf/2010.09531.pdf)
 - OpenCV2
 
 ## Reference
-If you are interest in this work, please spread and cite this paper:
+If you are interested in this work, please spread and cite this paper:
 ```
 @misc{lan2020learning,
       title={Learning Locomotion Skills in Evolvable Robots}, 
