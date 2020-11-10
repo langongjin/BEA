@@ -8,9 +8,9 @@ Here, we provide an implementation of the five algorithms (Bayesian Opimization 
 The current manuscript is also available in [arXiv](https://arxiv.org/pdf/2010.09531.pdf)
 
 ## Dependencies
-- OpenCV2
-- galgo
--limbo
+- OpenCV2 (BEA)
+- galgo (BEA, EA)
+- limbo (BEA, BO)
 
 ## Reference
 If you are interested in this work, please spread and cite this paper:
