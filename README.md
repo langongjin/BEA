@@ -5,7 +5,7 @@ Gongjin Lan, Jakub M. Tomczak, Diederik M. Roijers, A.E. Eiben, "Time Efficiency
 
 Here, we provide an implementation of the five algorithms (Bayesian Opimization (BO), Evolutionary Algorithm (EA), Bayesian-Evolutionary Algorithm, the DE, and the PSO) on many test functions and transfer methods intergated.
 
-The current manuscript is also available in [arXiv](https://arxiv.org/pdf/2010.09531.pdf)
+The current manuscript is also available in [arXiv](https://arxiv.org/abs/2005.04166)
 
 ## Dependencies
 - OpenCV2 (BEA)
